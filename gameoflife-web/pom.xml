@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>gameoflife</artifactId>
-        <groupId>com.wakaleo.gameoflife</groupId>
+        <groupId>com.fmaciask.gameoflife</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <groupId>com.wakaleo.gameoflife</groupId>
+    <groupId>com.fmaciask.gameoflife</groupId>
     <artifactId>gameoflife-web</artifactId>
     <packaging>war</packaging>
     <name>gameoflife-web</name>
@@ -117,7 +117,7 @@
     </profiles>
     <dependencies>
         <dependency>
-            <groupId>com.wakaleo.gameoflife</groupId>
+            <groupId>com.fmaciask.gameoflife</groupId>
             <artifactId>gameoflife-core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
